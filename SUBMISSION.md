@@ -6,7 +6,7 @@
 ## Required Screenshots
 
 ### 1. Repository Cloning
-![Repository Cloning](img/submission-screenshots/01-repo-clone.png)
+![Repository Cloning](img/submission-screenshots01-repo-clone.png)
 
 ### 2. Initial Commit
 ![Initial Commit](img/submission-screenshots02-initial-commit.png)
