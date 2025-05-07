@@ -1,7 +1,7 @@
 # Git Workflow Assignment Submission
 
 ## GitHub Repository
-[Link to repository](https://github.com/yourusername/web-development-project)
+[Link to repository](https://github.com/mabirhire1/web-development-project)
 
 ## Required Screenshots
 
