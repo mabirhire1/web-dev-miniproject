@@ -22,3 +22,6 @@
 
 ### 6. Second Pull Request Merge
 ![Second PR Merge](img/submission-screenshots06-second-pr-merge.png)
+
+### 7. GitHub User Dashboard
+![GitHub User Dashboard](img/submission-screenshots07github-user-dashboard.png)
